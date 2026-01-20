@@ -1,0 +1,7 @@
+{
+  "name": "Smart Synagogue Luach",
+  "description": "A comprehensive digital signage board for synagogues featuring real-time halachic zmanim, prayer schedules, Hebrew dates, and AI-generated daily insights based on the weekly Parasha.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
